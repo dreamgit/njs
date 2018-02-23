@@ -1,0 +1,5 @@
+1_archive/
+node_modules/
+structure_*.html
+*.bat
+.idea/
